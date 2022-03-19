@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/apueproject/v16
+*.out
+*.tlog
+/obj/x64/Debug/apueproject.log
+/obj/x64/Debug/iconfig.json

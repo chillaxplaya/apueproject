@@ -4,10 +4,21 @@
     <Filter Include="源文件">
       <UniqueIdentifier>{718e0a7d-15df-473f-814c-36ece9f1fbe4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{360ff38e-1f79-42bb-b478-fb00787a9710}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MyFunc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyFunc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
